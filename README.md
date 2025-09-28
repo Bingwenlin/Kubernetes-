@@ -2,6 +2,7 @@
 
 
 # 部署包架构
+```
 k8s-ha-deploy/
 ├── config.env                 # 全局配置文件（IP、VIP、版本等）
 ├── scripts/
@@ -14,7 +15,7 @@ k8s-ha-deploy/
 ├── manifests/
 │   └── calico.yaml           # Calico CNI（可选离线）
 └── README.md                 # 部署说明
-
+```
 
 # Kubernetes 高可用集群部署包（3 Master + 3 Node）
 
