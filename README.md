@@ -1,5 +1,4 @@
-# Kubernetes-
-Kubernetes高可用集群自动化部署
+# Kubernetes高可用集群自动化部署
 
 
 # 部署包架构
